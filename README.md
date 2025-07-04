@@ -64,4 +64,7 @@
   <a href="mailto:nowsathmusaraf037@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://musaraf0101.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
 </div>
