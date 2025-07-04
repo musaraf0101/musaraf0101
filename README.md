@@ -28,7 +28,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,laravel,spring,mysql,flutter" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,spring,mysql,flutter" alt="languages and frameworks" />
 </div>
 
 ### 🎨 Design & Styling
