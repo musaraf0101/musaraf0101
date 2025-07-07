@@ -41,7 +41,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools and platforms" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40" />
 </div>
 
 <!-- GitHub Stats with Animation -->
