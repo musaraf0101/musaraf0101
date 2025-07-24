@@ -21,7 +21,7 @@
 <p align="justify">
   Passionate <strong>Backend Developer</strong> with <strong>Mobile Application Development</strong> skills and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web and mobile applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
 </p>
-
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=vaishaly-m&label=Profile%20views&color=0e75b6&style=flat" alt="vaishaly-m" /> </p>
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@
 
 
 <div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaraf0101" alt="musaraf0101" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaraf0101" alt="musaraf0101" /></a> </p>
 </div>
 
 <!-- Contact Section -->
