@@ -21,8 +21,10 @@
 <p align="justify">
   Passionate <strong>Backend Developer</strong> with <strong>Mobile Application Development</strong> skills and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web and mobile applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
 </p>
-<p align="justify"> <img src="https://komarev.com/ghpvc/?username=vaishaly-m&label=Profile%20views&color=0e75b6&style=flat" alt="vaishaly-m" /> </p>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=musaraf0101&label=Profile%20views&color=0e75b6&style=flat" alt="musaraf0101" /> </p>
+
 <!-- Tech Stack Section -->
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
