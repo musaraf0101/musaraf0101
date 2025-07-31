@@ -52,11 +52,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf0101&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
 
-
-<div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaraf0101" alt="musaraf0101" /></a> </p>
-</div>
-
 <!-- Contact Section -->
 ## 📬 Get In Touch
 
