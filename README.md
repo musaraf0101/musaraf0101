@@ -29,7 +29,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,python,mysql,react,react-native" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,python,mysql,react,reactnative" alt="languages and frameworks" />
 </div>
 
 ### 🎨 Design & Styling
