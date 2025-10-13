@@ -41,7 +41,7 @@
 ### 🛠️ Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="tools and platforms" />
 </div>
 
 <!-- GitHub Stats with Animation -->
