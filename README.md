@@ -35,13 +35,13 @@
 ### 🎨 Design & Styling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind,mantine" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind" alt="design tools" />
 </div>
 
 ### 🛠️ Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,pycharm" alt="tools and platforms" />
 </div>
 
 <!-- GitHub Stats with Animation -->
