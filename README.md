@@ -29,13 +29,13 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,python,mysql,react,express,nodejs,mongodb,typescript" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,python,mysql,react,express,nodejs,mongodb" alt="languages and frameworks" />
 </div>
 
 ### 🎨 Design & Styling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind" alt="design tools" />
 </div>
 
 ### 🛠️ Tools & Platforms
