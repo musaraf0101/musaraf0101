@@ -35,7 +35,7 @@
 ### 🎨 Design & Styling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind,mantine" alt="design tools" />
 </div>
 
 ### 🛠️ Tools & Platforms
