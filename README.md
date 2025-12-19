@@ -52,7 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf0101&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
 </div>
 <!-- Contact Section -->
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-musaraf-6818452b4/" target="_blank">
