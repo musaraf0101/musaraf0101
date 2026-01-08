@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 <p align="justify">
-  Passionate <strong>Backend Developer</strong> with <strong>Mobile Application Development</strong> skills and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web and mobile applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
+  Passionate <strong>Frontend Developer</strong> with <strong>Backend Developer</strong> skills and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web and mobile applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
 </p>
 
 <!-- Tech Stack Section -->
