@@ -23,7 +23,7 @@ Ask me about **MERN, Python & UI/UX**
 
 <br>
 
-<a href="https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view">
+<a href="[https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view](https://drive.google.com/file/d/1dVsn-C2OvCFBKNvOTBhR4eBDLnEMDe-g/view?usp=drive_link)">
   <img src="https://img.shields.io/badge/Resume-21262d?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
