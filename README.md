@@ -1,68 +1,100 @@
-<!-- Animated Header with Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B,+I'm+Musaraf;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0" alt="Musaraf Profile" />
+
+  <h1>Hi there, I'm Musaraf</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&height=51&lines=Full+Stack+Developer;Architecting+Scalable+Web+Solutions;Crafting+Pixel-Perfect+User+Experiences)](https://git.io/typing-svg)
+
+  <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=21262d&style=flat-square" />
+</div>
+
+<br>
+
+<div align="center">
+
+## About Me
+
+I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, focused on building **scalable, performant, and visually refined** web applications.
+
+Enhancing backend architecture & system design  
+Exploring **Python, GenAI, and Cloud (Aws)**  
+Crafting modern UIs with **React & Tailwind CSS**  
+Ask me about **MERN, Python & UI/UX**
+
+<br>
+
+<a href="https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view">
+  <img src="https://img.shields.io/badge/Resume-21262d?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![CSharp](https://img.shields.io/badge/C%23-21262d?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-21262d?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-21262d?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
+
+### 🗄️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### ☁️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
+![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+[![GitHub Streak](https://github-readme-streak-stats-psi-vert.vercel.app?user=musaraf0101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
+<br>
 
-<!-- Profile Overview -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+
+## 🤝 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nowsathmusaraf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musaraf0101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/)
+[![X](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+
 </div>
 
-## 🚀 About Me
+<br>
 
-<p align="justify">
-  Passionate <strong>Frontend Developer</strong> with <strong>Backend Developer</strong> skills and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
+<p align="center">
+  <i>Design • Develop • Deploy</i><br>
+  <b>Let’s Build Something Beautiful Together</b>
 </p>
-
-<!-- Tech Stack Section -->
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,laravel,python,mysql,react,express,nodejs,mongodb" alt="languages and frameworks" />
-</div>
-
-### 🎨 Design & Styling
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,scss,bootstrap,tailwind" alt="design tools" />
-</div>
-
-### 🛠️ Tools & Platforms
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,pycharm,docker" alt="tools and platforms" />
-</div>
-
-<!-- GitHub Stats with Animation -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musaraf0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf0101&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
-</div>
-
-<!-- Contact Section -->
-## Get In Touch
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-musaraf-6818452b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nowsathmusaraf037@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://musaraf0101.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-</div>
