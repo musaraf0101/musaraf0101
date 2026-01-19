@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, focused on building **scalable, performant, and visually refined** web applications.
+I am a passionate **Full-Stack Developer** specializing in the **MERN stack** and **Laravel**, focused on building **scalable, performant, and visually refined** web applications.
 
 Enhancing backend architecture & system design  
 Exploring **Python, GenAI, and Cloud (Aws)**  
@@ -60,7 +60,7 @@ Ask me about **MERN, Python & UI/UX**
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo-docker&logoColor=3178C6)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=3178C6)
 
 
 </div>
