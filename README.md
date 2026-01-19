@@ -35,33 +35,36 @@ Ask me about **MERN, Python & UI/UX**
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
+###  Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
 
-### 🎨 Frontend
+###  Frontend
 
 ![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
-### 🗄️ Backend & Databases
+###  Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Laravel](https://img.shields.io/badge/Laravel-21262d?style=for-the-badge&logo=laravel&logoColor=4479A1)
+![Laravel](https://img.shields.io/badge/Laravel-21262d?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
-### ☁️ DevOps & Tools
+###  DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=3178C6)
+
+###  GenAI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-21262d?style=for-the-badge&logo=openai&logoColor=white)
 
 
 </div>
