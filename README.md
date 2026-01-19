@@ -55,6 +55,7 @@ Ask me about **MERN, Python & UI/UX**
 ![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Laravel](https://img.shields.io/badge/Laravel-21262d?style=for-the-badge&logo=laravel&logoColor=4479A1)
 
 ### ☁️ DevOps & Tools
 
