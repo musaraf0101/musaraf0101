@@ -41,15 +41,11 @@ Ask me about **MERN, Python & UI/UX**
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![CSharp](https://img.shields.io/badge/C%23-21262d?style=for-the-badge&logo=c-sharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-21262d?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-21262d?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
@@ -64,6 +60,7 @@ Ask me about **MERN, Python & UI/UX**
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker)
 
 
 </div>
