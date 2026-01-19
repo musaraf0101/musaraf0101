@@ -39,7 +39,7 @@ Ask me about **MERN, Python & UI/UX**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
 
