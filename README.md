@@ -93,9 +93,9 @@ Ask me about **MERN, Python & UI/UX**
 
 ## 🤝 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nowsathmusaraf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nowsathmusaraf037@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musaraf0101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mohamed-musaraf-6818452b4/)
 
 </div>
 
